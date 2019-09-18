@@ -130,7 +130,7 @@ export default {
   flex: 1 1 auto;
   padding: 20px;
   width: calc(100% - 40px);
-  border: 1px solid #343f8f;
+  box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.3);
   cursor: pointer;
 }
 
