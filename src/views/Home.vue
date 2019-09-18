@@ -125,7 +125,7 @@ export default {
 .users-list__box {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   flex: 1 1 auto;
   padding: 20px;
